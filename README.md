@@ -1,2 +1,0 @@
-# gotchustudio
-gotchustudio website development 
